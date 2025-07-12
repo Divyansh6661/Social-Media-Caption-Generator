@@ -56,14 +56,6 @@ GEMINI_API_KEY=your_api_key_here
 python main.py
 ```
 
-## ✨ Features
-
-- Generate social media captions from text or image
-- Supports Instagram, LinkedIn, Twitter, and TikTok
-- Powered by Google Gemini AI (2.0 Flash)
-- Beautiful, glassmorphic Gradio UI
-- Emojis and hashtags tailored to each platform
-
 ## 💡 Future Enhancements
 
 - Add multilingual caption support
