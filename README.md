@@ -68,4 +68,5 @@ Pull requests are welcome! For major changes, open an issue first to discuss wha
 
 ## 👨‍💻 Author
 Divyansh Yadav
+
 Connect with me on LinkedIn or GitHub
